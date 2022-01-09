@@ -7,7 +7,7 @@ Original file is located at
 
 import requests
 
-url = 'http://localhost:5000/predict_api'
+url = 'http://127.0.0.1:5000'
 r = requests.post(url,json={'House_Price})
 
 print(r.json())
