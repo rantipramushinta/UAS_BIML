@@ -1,0 +1,1 @@
+web: HousePricePredictor app:app
